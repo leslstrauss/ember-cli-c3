@@ -1,7 +1,7 @@
 {
-  "name": "new-cli",
+  "name": "explore-ember-cli",
   "version": "0.0.0",
-  "description": "Small description for new-cli goes here",
+  "description": "Small description for explore-ember-cli goes here",
   "private": true,
   "directories": {
     "doc": "doc",
