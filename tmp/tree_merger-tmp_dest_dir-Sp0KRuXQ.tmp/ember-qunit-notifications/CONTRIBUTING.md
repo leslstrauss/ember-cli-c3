@@ -1,0 +1,1 @@
+/Users/lesliestrauss/Code/new-ember-stuff/cli-ya/tmp/custom_static_compiler-tmp_dest_dir-hpHcWQUO.tmp/ember-qunit-notifications/CONTRIBUTING.md
