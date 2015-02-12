@@ -1,1 +1,0 @@
-/Users/lesliestrauss/Code/new-ember-stuff/cli-ya/tmp/custom_static_compiler-tmp_dest_dir-bX1fKCAS.tmp/qunit/qunit/qunit.js

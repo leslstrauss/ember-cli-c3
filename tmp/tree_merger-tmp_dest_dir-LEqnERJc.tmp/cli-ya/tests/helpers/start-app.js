@@ -1,1 +1,0 @@
-/Users/lesliestrauss/Code/new-ember-stuff/cli-ya/tmp/six_to_five-tmp_dest_dir-QKaEkBqe.tmp/cli-ya/tests/helpers/start-app.js

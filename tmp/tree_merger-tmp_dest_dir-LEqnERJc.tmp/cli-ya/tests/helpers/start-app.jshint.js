@@ -1,1 +1,0 @@
-/Users/lesliestrauss/Code/new-ember-stuff/cli-ya/tmp/custom_static_compiler-tmp_dest_dir-4wCQC8ej.tmp/cli-ya/tests/helpers/start-app.jshint.js

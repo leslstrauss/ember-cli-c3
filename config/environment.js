@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'cli-ya',
+    modulePrefix: 'new-cli',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

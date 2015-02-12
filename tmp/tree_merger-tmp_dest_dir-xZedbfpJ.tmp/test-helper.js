@@ -1,1 +1,0 @@
-/Users/lesliestrauss/Code/new-ember-stuff/cli-ya/tests/test-helper.js

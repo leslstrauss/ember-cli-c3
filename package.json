@@ -1,7 +1,7 @@
 {
-  "name": "cli-ya",
+  "name": "new-cli",
   "version": "0.0.0",
-  "description": "Small description for cli-ya goes here",
+  "description": "Small description for new-cli goes here",
   "private": true,
   "directories": {
     "doc": "doc",
