@@ -24,10 +24,10 @@
   "_resolution": {
     "type": "version",
     "tag": "5.5.1",
-    "commit": "3b67c37b93b55c08a30250818c96edb2ddb13649"
+    "commit": "bf07a7551bc3e599404d9cb2eb2251a95c1ea782"
   },
   "_source": "git://github.com/zurb/bower-foundation.git",
   "_target": "~5.5.1",
-  "_originalSource": "zurb/bower-foundation",
+  "_originalSource": "foundation",
   "_direct": true
 }
