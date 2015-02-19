@@ -2,7 +2,6 @@
   "name": "ember-cli-c3",
   "dependencies": {
     "handlebars": "~1.3.0",
-    "jquery": "^1.11.1",
     "jquery": "2.1.3",
     "ember": "1.8.1",
     "ember-data": "1.0.0-beta.14.1",
@@ -14,6 +13,7 @@
     "ember-qunit": "0.2.8",
     "ember-qunit-notifications": "0.0.7",
     "qunit": "~1.17.1",
-    "foundation": "~5.5.1"
+    "foundation": "~5.5.1",
+    "ember-c3": "~0.1.3"
   }
 }
