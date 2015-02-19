@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'new-ember-cli',
+    modulePrefix: 'ember-cli-c3',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
